@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://roadofcode7.blogspot.com/](https://roadofcode7.blogspot.com/)
 
-- 💬 Ask me about **React or Django**
+- 💬 Ask me about **React, Django, or PostgreSQL**
 
 - 📫 How to reach me **dberry3755@gmail.com**
 
