@@ -1,5 +1,5 @@
 # 👋🏼 About Me:
-🔭 I’m currently working on FootyMatch Full Stack App<br><br>🌱 I’m currently learning Node.js<br><br>📝 I regularly write articles on https://roadofcode7.blogspot.com/<br><br>💬 Ask me about React, Django, or PostgreSQL<br><br>📫 How to reach me dberry3755@gmail.com<br><br>⚡ Fun fact I am a champion pickleball player (In the average level 3.5-4.0)
+🔭 I’m currently working on a full stack app for an individual in accounting<br><br>🌱 I’m currently learning TypeScript in more depth<br><br>📝 I regularly write articles on https://roadofcode7.blogspot.com/<br><br>💬 Ask me about React, Django, or PostgreSQL<br><br>📫 How to reach me dberry3755@gmail.com<br><br>⚡ Fun fact I am a champion pickleball player (In the average level 3.5-4.0)
 
 
 ## 🌐 Socials:
